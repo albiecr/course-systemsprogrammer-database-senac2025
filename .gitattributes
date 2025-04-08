@@ -2,3 +2,5 @@
 *.ddl linguist-language=SQL
 *.dml linguist-language=SQL
 *.sql linguist-detectable=true
+*.mwb linguist-detectable=false
+*.mwb linguist-vendored=true 
